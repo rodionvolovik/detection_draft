@@ -1,6 +1,7 @@
 # detection_draft
 
-Fill imageprocessor.py with the detection and recognition algorithm implementation.
+## Contribution
+Edit imageprocessor.py and add the detection and recognition algorithm implementation.
 
 ## Usage
     python3.5 detection.py [-h] [-c CAMERA] [-i IMAGE]
